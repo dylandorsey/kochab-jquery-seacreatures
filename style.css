@@ -7,5 +7,20 @@ body {
 }
 
 .clickCounter {
+    /* display: inline-block; */
+}
+
+.inputbox {
+    background-color: grey;
     display: inline-block;
+    width: 100px;
+    margin: 5 px;
+}
+
+th {
+    background-color: grey;
+}
+
+table {
+    background-color: lightgrey;
 }
