@@ -1,3 +1,11 @@
 h1 {
     color: #672e3b;
 }
+
+body {
+    background-color: #F0EDE5;
+}
+
+.clickCounter {
+    display: inline-block;
+}
